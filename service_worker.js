@@ -1,8 +1,8 @@
 const cacheName = "tinka_pwa_v1";
 var cachedResources = [
 	"/wiki.html",
-	"/icon_192.jpg",
-	"/icon_512.jpg",
+	"/icon_192.png",
+	"/icon_512.png",
 	"/manifest.webmanifest"
 ];
 
